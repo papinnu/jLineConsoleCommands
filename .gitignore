@@ -1,0 +1,24 @@
+
+**/target/
+
+# Netbeans
+**/nbproject/
+**/nb-configuration.xml
+**/nbbuild/
+**/.nb-gradle/
+**/nbactions.xml
+
+# IntelliJ Idea
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+# Gradle
+**/.gradle
+**/build/
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Custom
